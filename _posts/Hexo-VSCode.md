@@ -1,7 +1,7 @@
 ---
 title: Hexo & VSCode
 date: 2022-05-28 11:02:29
-tags:
+tags: meta, hexo, dev
 ---
 
 ## Quickstart: Installation, Editing, and Deployment

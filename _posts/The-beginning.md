@@ -1,7 +1,7 @@
 ---
 title: Child of the internet
 date: 2022-05-28 00:20:00
-tags:
+tags: hacking, people, journey
 ---
 
 From the earliest days I can remember, I have been in love with technology. My first real computer memory was playing a game called [Mad Dog Mccree](https://en.wikipedia.org/wiki/Mad_Dog_McCree), published in 1993 on for MS-DOS by IBM on some version of the Tandy home computer. 
