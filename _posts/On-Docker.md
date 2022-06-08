@@ -1,10 +1,10 @@
 ---
-title: Finding Docker
+title: On Docker
 date: 2022-06-04 08:50:18
 tags: docker, journey, people
 ---
 
-![Docker logo from 2013](Finding-Docker/Docker-Logo-2013.png)
+![Docker logo from 2013](On-Docker/Docker-Logo-2013.png)
 
 I spent most of my day pulling together basically every piece of relevant information about my experience at [Docker](docker.com) from 2013 to 2017. I found [pictures](https://www.flickr.com/photos/99741659@N08/albums), I found [videos](https://www.youtube.com/user/dotcloudtv/videos). So many emotions. So much nostalgia. So many amazing people.
 
@@ -36,7 +36,7 @@ Not only that, I was wrong.
 
 The Docker story is first and foremost about the people. The fact that the technology caused a sea change in the way application are developed comes second to the impact that it made on people. The irc hackers, the github contributors, the thousands of projects, the innovators, the employees, the community, the ecosystem. 
 
-![Docker Birthday #1 - The People](Finding-Docker/The-people.jpg)
+![Docker Birthday #1 - The People](On-Docker/The-people.jpg)
 
 The next time I write about Docker, it will be in dedication to you. 
 
