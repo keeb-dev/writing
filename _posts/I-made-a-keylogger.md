@@ -21,7 +21,7 @@ While I haven't exactly replicated the putting it in the right place part yet, [
 
 ## Enter `k`
 
-`k` is a [simple program](github.com/keeb-dev/k) that spies on the keyboard, waiting for the magic character combination.
+`k` is a [simple program](http://github.com/keeb-dev/k) that spies on the keyboard, waiting for the magic character combination.
 
 Once detected, it launches the editor of my choice.
 
@@ -83,7 +83,7 @@ Wait, what's `enterDown` ? Good question. Glad you're paying attention. The thin
 
 ## The finished product
 
-Main logic explained. How is it all put together? Take a [look at the repo](github.com/keeb-dev/k). 
+Main logic explained. How is it all put together? Take a [look at the repo](http://github.com/keeb-dev/k). 
 
 I am not sure if I will keep developing this tool. It kind of does exactly what I want it to do. It will be annoying to recompile if I decide to start using a different terminal. Or if I want to change the key combination. Or if I happen to want another macro to do something else.
 
