@@ -72,7 +72,7 @@ for {
             enterDown = false
         }
     }
-    time.Sleep(1 * time.Millisecond)
+    time.Sleep(50 * time.Millisecond)
 }
 ```
 
